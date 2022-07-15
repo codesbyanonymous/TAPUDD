@@ -1,4 +1,4 @@
-# TAPUDD: Task Agnostic and Post-hoc </br> Unseen Distribution Detection
+# Task Agnostic and Post-hoc </br> Unseen Distribution Detection
 This is the *Pytorch Implementation* for the paper TAPUDD: Task Agnostic and Post-hoc Unseen Distribution Detection. It includes code multi-class classification.
 
 
